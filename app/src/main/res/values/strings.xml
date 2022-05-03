@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab_07_-_Work_with_Database_SQLite</string>
+    <string name="Lab_save">Save</string>
+    <string name="Lab_delete">Delete</string>
+    <string name="Lab_new">New</string>
+    <string name="Lab_content">Content</string>
+</resources>
